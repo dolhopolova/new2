@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" default="true">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="jdk-19" project-jdk-type="JavaSDK">
+>>>>>>> new-feature-branch-3
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
